@@ -1,0 +1,22 @@
+Index.html file:
+- This shows the title page, the bubble effects, and other title parts
+
+Style.css file:
+- This shows the color effects on the page (color, font, etc.)
+
+Script.js file: 
+- This shows the type of quote, book, and author while also being able to run it randomly
+- This can be used to update new quote or delete them as well.
+- All you would have is copy & paste this code to add a code before the last quote 
+        {
+            quote:"add quote ",
+            author: "add author",
+            book: " add book title "
+        },   
+
+- the last quote is the same form as this but it doesn't have a comma at the end (the last quote is the Nikki Giovanni quote)
+
+How to run the code:
+- To run the code for the index.html page then click on the play button on the left side to run the page
+- (its called Run & debug button )
+- or Click the run button above by the "Go" button
